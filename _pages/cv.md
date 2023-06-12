@@ -8,15 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here]{https//gvsam7.github.io/files/cv.pdf}
+[Download CV here](https//gvsam7.github.io/files/cv.pdf)
 
-<!Education
+Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Deep Learning Aerial Scene Analysis:
+Extracting Transferable Salient Features Between Seasonal Domains, University of Sussex, 2018 (expected)
+* MSc Modern Digital Communications Systems, University of Sussex, 2006
+* BEng Honours Electronics with Communications Engineering, University of Brighton, 2005
 
-Work experience
+
+<!--Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,4 +59,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams>
+* Currently signed in to 43 different slack teams
