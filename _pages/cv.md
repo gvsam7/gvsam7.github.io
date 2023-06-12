@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](https//gvsam7.github.io/files/cv.pdf)
+[Download CV here](https://github.com/gvsam7/gvsam7.github.io/blob/master/files/cv.pdf)
 
 Education
 ======
