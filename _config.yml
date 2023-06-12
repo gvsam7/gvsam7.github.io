@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Transferable Salient Features Between Seasonal Domains"
   location         : "Brighton"
-  employer         : 
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d0VmKyAAAAAJ&hl=en&oi=sra"
   email            :
@@ -309,3 +309,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
