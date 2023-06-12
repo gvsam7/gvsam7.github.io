@@ -18,7 +18,7 @@ Extracting Transferable Salient Features Between Seasonal Domains, University of
 * BEng Honours Electronics with Communications Engineering, University of Brighton, 2005
 
 
-<!--Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -59,4 +59,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
