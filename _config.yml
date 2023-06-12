@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Transferable Salient Features Between Seasonal Domains"
   location         : "Brighton"
-  employer         : "https://profiles.sussex.ac.uk/p188305-georgios-voulgaris"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d0VmKyAAAAAJ&hl=en&oi=sra"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/georgios-voulgaris-4b9625249/"
+  linkedin         :
   orcid            : "http://orcid.org/0000-0003-4597-7352"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@georgiosvoulgaris2602"
+  youtube          :
   wikipedia        :
 
 
