@@ -19,12 +19,12 @@ These works provide an overview of my research in Domain Shifts in aerial scenes
 _____
 These works provide an overview of my research in semantic segmentation of aerial scenes.
 
-* **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "Water physics aware semantic segmentation through texture-biased U-Net architectures."
+* **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures."
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS </a>.
 
 ## Remote Sensing Scene Classification
 _____
-These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China.
+These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China.  
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework."
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS </a>.
