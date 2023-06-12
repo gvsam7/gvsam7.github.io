@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 I am an EPSRC funded PhD candidate, investigating Deep Learning Robustness for Remote Sensing Systems and Ways to Extract Transferable Salient Features Between Seasonal Domains at the [University of Sussex](https://profiles.sussex.ac.uk/p188305-georgios-voulgaris), who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision.
 
-Being part of the Predictive Analytical Lab (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed a Deep Learning model that classifies land scenes from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool. 
+Being part of the Predictive Analytical Lab (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed a Deep Learning model that classifies land scenes from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool.
 
 Currently, I am developing an algorithm that extracts salient features whilst capturing more context and spatial image information by employing a wider receptive field, thus enhancing semantic segmentation robustness to light variations in aerial images. The proposed approach, is resilient to shadows and effectively retrieve scene information that is hidden beneath canopy. Additionally, it is efficient in detecting water bodies (lakes, rivers) from UAVs, and compared to the current state of the art, the proposed algorithm is particularly effective in segmenting water bodies from snow and ice.  
 
