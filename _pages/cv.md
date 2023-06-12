@@ -36,7 +36,7 @@ Industry
 * Control and Automation Design Engineer (Oil and Gas)
   * 18 September 2006 - 18 May 2013
   * [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
-  * Duties included: Full software and hardware life cycle, Functional Safety, Systems Sensing and Control, Communications, Project Planning and Management.
+  * Duties included: Full Software and Hardware Life Cycle, Functional Safety, Systems Sensing and Control, Communications, Project Planning and Management.
 
 Education
 ======
