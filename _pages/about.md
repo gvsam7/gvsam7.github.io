@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an EPSRC funded PhD candidate, investigating Deep Learning for Remote Sensing systems and ways to extract transferable salient features between seasonal domains at the [University of Sussex](https://profiles.sussex.ac.uk/p188305-georgios-voulgaris), who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision.
+I am an EPSRC funded PhD candidate, investigating Deep Learning for Remote Sensing systems and ways to extract invariant feature representations between seasonal domains at the [University of Sussex](https://profiles.sussex.ac.uk/p188305-georgios-voulgaris), who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision.
 
 Being part of the Predictive Analytical Lab (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed a Deep Learning model that classifies land scenes from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool.
 
