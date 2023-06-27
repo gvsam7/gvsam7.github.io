@@ -31,7 +31,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 * April 2023: Paper *Physics Aware Semantic Segmentation...* got into IGARSS'23 Oral!
 * July 2022: Presented my paper *Deep Learning Robustness to Domain Shifts...* on IGARSS'22!
 * April 2022: Paper *Deep Learning Robustness to Domain Shifts...* got into IGARSS'22!
-* April 2022: Paper *Detection and Characterisation of Pollutant Assets with AI and EO...* got into IGARSS'22 Oral!
+* April 2022: Paper *Detection and Characterisation of Pollutant Assets...* got into IGARSS'22 Oral!
 * January 2022: Research Internship Satellite Applications Catapult!
 * January 2021: Awarded DISCnet Scholarship!
 * August 2020: Machine Learning Summer School Indonesia (Awards Received: Most Active Participant, Best Research Proposal)!
