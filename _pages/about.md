@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an EPSRC funded PhD candidate, investigating Deep Learning Robustness for Remote Sensing Systems and Ways to Extract Transferable Salient Features Between Seasonal Domains at the [University of Sussex](https://profiles.sussex.ac.uk/p188305-georgios-voulgaris), who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision.
+I am an EPSRC funded PhD candidate, investigating Deep Learning for Remote Sensing systems and ways to extract transferable salient features between seasonal domains at the [University of Sussex](https://profiles.sussex.ac.uk/p188305-georgios-voulgaris), who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision.
 
 Being part of the Predictive Analytical Lab (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed a Deep Learning model that classifies land scenes from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool.
 
@@ -18,7 +18,9 @@ Recently, I investigated the Deep Learning model robustness to domain shifts suc
 
 During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data, to detect and classify cement plants in China, by exploiting physical properties such as, plant surrounding temperature and soil moisture. Hence, Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) were employed, to create datasets comprised of thermal infrared (bands 10 and 11), short wave infrared (bands 6 and 7), and a geological ratio of the short-wave infrared image chips of two classes (cement plants and the surrounding land cover). Then, the produced image data were used to train and validate various state of the art deep learning architectures (VGG, ResNet, EfficientNet).
 
-Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, project planning and management.
+Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, functional safety, project planning and management.
+
+I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
