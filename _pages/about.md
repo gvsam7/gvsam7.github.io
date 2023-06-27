@@ -35,5 +35,5 @@ I am always up for new collaborations, drop me an email if you want to chat!
 * January 2022: Research Internship Satellite Applications Catapult!
 * January 2021: Awarded DISCnet Scholarship!
 * August 2020: Machine Learning Summer School Indonesia (Awards Received: Most Active Participant, Best Research Proposal)!
-* January 2020: Joined British Academy funded project, Satellite/Aerial Image Scene Segmentation.
+* January 2020: Joined British Academy funded project, *Aerial Image Scene Segmentation*!
 * November 2019: Presented a demo for Detecting Water Bodies from UAVs to National Rail!
