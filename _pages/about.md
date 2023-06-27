@@ -22,15 +22,16 @@ Prior my PhD, I worked as a Control and Automation Design Engineer for the oil a
 
 ## Recent News
 
-* June 2023: Invited to Chair session Image Analysis for the Remote Sensing of Water Bodies on IGARSS'23!
-* June 2023: Presented Seasonal Domain Shift in the Global South... on EarthVision CVPR'23!
+* June 2023: Invited to Chair session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
+* June 2023: Presented my paper *Seasonal Domain Shift...* on EarthVision CVPR'23!
 * May 2023: Submitted my Thesis!
-* April 2023: Paper Seasonal Domain Shift in the Global South... got into EarthVision CVPR'23!
-* April 2023: Paper Physics Aware Semantic Segmentation... got into IGARSS'23 Oral!
-* July 2022: Presented Deep Learning Robustness... on IGARSS'22!
-* April 2022: Paper Deep Learning Robustness to Domain Shifts... got into IGARSS'22!
-* April 2022: Paper Detection and Characterisation of Pollutant Assets with AI and EO... got into IGARSS'22 Oral!
+* April 2023: Paper *Seasonal Domain Shift in the Global South...* got into EarthVision CVPR'23!
+* April 2023: Paper *Physics Aware Semantic Segmentation...* got into IGARSS'23 Oral!
+* July 2022: Presented my paper *Deep Learning Robustness to Domain Shifts...* on IGARSS'22!
+* April 2022: Paper *Deep Learning Robustness to Domain Shifts...* got into IGARSS'22!
+* April 2022: Paper *Detection and Characterisation of Pollutant Assets with AI and EO...* got into IGARSS'22 Oral!
 * January 2022: Research Internship Satellite Applications Catapult!
-* January 2021: Received DISCnet Scholarship!
+* January 2021: Awarded DISCnet Scholarship!
 * August 2020: Machine Learning Summer School Indonesia (Awards Received: Most Active Participant, Best Research Proposal)!
+* January 2020: Joined British Academy funded project, Satellite/Aerial Image Scene Segmentation.
 * November 2019: Presented a demo for Detecting Water Bodies from UAVs to National Rail!
