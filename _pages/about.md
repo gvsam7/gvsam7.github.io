@@ -20,4 +20,17 @@ During my research internship at Satellite Applications Catapult, I applied phys
 
 Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, project planning and management.
 
-In addition, I designed and produced an automated greenhouse. The project was used as a platform that enabled me to conduct extensive research, whilst getting practical exposure to various aspects of the embedded software and hardware life cycle.
+## Recent News
+_____
+* June 2023: IGARSS'23 Invited to Chair Session Image Analysis for the Remote Sensing of Water Bodies!
+* June 2023: Presented Seasonal Domain Shift in the Global South... on EarthVision CVPR'23!
+* June 2023: Submitted my Thesis!
+* April 2023: Paper Seasonal Domain Shift in the Global South: Dataset and Deep Features Analysis got into EarthVision CVPR'23!
+* April 2023: Paper Physics Aware Semantic Segmentation Through Texture-Biased U-Net got into IGARSS'23 Oral!
+* July 2022: Presented Deep Learning Robustness...on IGARSS'22!
+* April 2022: Paper Deep Learning Robustness to Domain Shifts During Seasonal Variations got into IGARSS'22!
+* April 2022: Paper Detection and Characterisation of Pollutant Assets with AI and EO... got into IGARSS'22 Oral!
+* January 2022: Research Internship Satellite Applications Catapult!
+* January 2021: DiscNet Scholarship!
+* August 2020: Machine Learning Summer School Indonesia (Awards Received: Most Active Participant, Best Research Proposal)!
+* November 2019: Presented a demo for Detecting Water Bodies from UAVs to National Rail!
