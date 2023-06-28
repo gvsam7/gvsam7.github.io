@@ -11,6 +11,7 @@ These works provide an overview of my research in Domain Shifts in aerial scenes
 
 * **Georgios Voulgaris**, Andy Philippides, Jonathan Dolley, Jeremy Reffin, Fiona Marshall, Novi Quadrianto. (2023). "Seasonal Domain Shift in the Global South: Dataset and Deep Features Analysis."
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html"> CVPR </a>.
+![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_EarthVision2023.pdf)
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2022). "Deep Learning Robustness to Domain Shifts During Seasonal Variations."
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS </a>.
