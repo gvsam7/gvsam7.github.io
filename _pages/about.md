@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Georgios Voulgaris"
+# title: "Georgios Voulgaris"
 excerpt: "About me"
 author_profile: true
 redirect_from:
