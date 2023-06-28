@@ -24,7 +24,7 @@ Teaching Assistant
 * [Computer Vision (G6032)](https://www.sussex.ac.uk/study/modules/undergraduate/2020/G6032-computer-vision)
   * Level: Second Year
   * Winter-Spring 2020
-* [Industrial Automation Mechatronics (875H1)](https://www.sussex.ac.uk/study/modules/postgraduate/2021/875H1-automation-and-mechatronics)
+* [Automation and Mechatronics (875H1)](https://www.sussex.ac.uk/study/modules/postgraduate/2021/875H1-automation-and-mechatronics)
   * Level: Masters
   * Winter-Spring 2019
 * [Industrial Automation Systems (H7121)](https://www.sussex.ac.uk/study/modules/undergraduate/2022/H7121-industrial-automation-systems)
@@ -43,7 +43,7 @@ Industry
 
 Education
 ======
-* Ph.D in Deep Learning Aerial Scene Analysis: Extracting Transferable Salient Features Between Seasonal Domains, University of Sussex, 2018 (expected)
+* PhD in Deep Learning Aerial Scene Analysis: Extracting Transferable Salient Features Between Seasonal Domains, University of Sussex, (expected)
 * MSc Modern Digital Communications Systems, University of Sussex, 2006
 * BEng Honours Electronics with Communications Engineering, University of Brighton, 2005
 
