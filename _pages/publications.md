@@ -17,6 +17,8 @@ These works provide an overview of my research in Domain Shifts in aerial scenes
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2022). "Deep Learning Robustness to Domain Shifts During Seasonal Variations."
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS </a>.
 
+[Presentation](https://www.youtube.com/watch?v=Zci4eASXmkQ)
+
 ![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)
 
 ## Semantic Segmentation
@@ -32,6 +34,8 @@ These works provide an overview of my research in using remote sensing data and 
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework."
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS </a>.
+
+[Presentation](https://www.youtube.com/watch?v=0xkWbdjljWk)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
