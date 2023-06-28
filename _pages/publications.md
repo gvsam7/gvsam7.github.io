@@ -7,7 +7,7 @@ author_profile: true
 
 ## Domain Adaptation
 _____
-These works provide an overview of my research in Domain Shifts in aerial scenes due to seasonal variations between wet and dry seasons on the Global South.
+These works provide an overview of my research in Domain Shifts in aerial scenes due to seasonal variations between wet and dry seasons in the Global South.
 
 * **Georgios Voulgaris**, Andy Philippides, Jonathan Dolley, Jeremy Reffin, Fiona Marshall, Novi Quadrianto. (2023). "Seasonal Domain Shift in the Global South: Dataset and Deep Features Analysis."
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html"> CVPR </a>.
