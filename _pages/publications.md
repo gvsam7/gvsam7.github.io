@@ -30,11 +30,7 @@ These works provide an overview of my research in semantic segmentation of aeria
 
 ## Remote Sensing Scene Classification
 _____
-These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. Some of the main features of this project are:
-
-• Employing Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets comprised of thermal infrared (bands 10 and 11), short wave infrared (bands 6 and 7), and a geological ratio of the short-wave infrared image chips of two classes (cement plants and the surrounding land cover).
-
-• Training and validating various state of the art deep learning architectures (VGG, ResNet, EfficientNet) on the created datasets.  
+These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), short wave infrared (bands 6 and 7), and a geological ratio of the short-wave infrared image chips for two classes (cement plants and the surrounding land cover). I then trained and validated various state-of-the-art deep learning architectures (VGG, ResNet, EfficientNet) on the created datasets.  
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS </a>.
