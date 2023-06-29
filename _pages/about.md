@@ -16,11 +16,7 @@ Currently, I am developing a novel architecture that extracts salient features w
 
 Furthermore, I have recently investigated the Deep Learning robustness to domain shifts due to seasonal variations and proposed a novel architecture that extracts invariant feature representations between domains by combining salient texture feature extraction and a wider receptive field. This makes the model robust in the presence of domain shifts due to seasonal variations. This project contributes to the [SDG 13: Climate Action](https://sdgs.un.org/goals/goal13).
 
-During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). Some of the main features of this project are:
-
-• Employing Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets comprised of thermal infrared (bands 10 and 11), short wave infrared (bands 6 and 7), and a geological ratio of the short-wave infrared image chips of two classes (cement plants and the surrounding land cover).
-
-• Training and validating various state of the art deep learning architectures (VGG, ResNet, EfficientNet) on the created datasets.
+During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). 
 
 Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, functional safety, project planning and management.
 
