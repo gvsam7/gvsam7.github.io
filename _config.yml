@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Georgios Voulgaris"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Invariant Feature Representations Between Seasonal Domains"
+  bio              : "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks."
   location         : "Brighton"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
