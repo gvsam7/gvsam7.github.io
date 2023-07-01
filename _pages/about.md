@@ -30,7 +30,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 * April 2023: Paper *Seasonal Domain Shift in the Global South...* got into EarthVision CVPR'23!
 * April 2023: Paper *Physics Aware Semantic Segmentation...* got into IGARSS'23 Oral!
 * July 2022: Presented my paper *Deep Learning Robustness to Domain Shifts...* on IGARSS'22!
-* April 2022: Presented my internship research *Remote Sensing & Deep Learning, Polluting Plant Detection...* on DISCnet consortium!
+* May 2022: Presented my internship research *Remote Sensing & Deep Learning Polluting Plant Detection...* on DISCnet consortium!
 * April 2022: Paper *Deep Learning Robustness to Domain Shifts...* got into IGARSS'22!
 * April 2022: Paper *Detection and Characterisation of Pollutant Assets...* got into IGARSS'22 Oral!
 * January 2022: Research Internship Satellite Applications Catapult!
