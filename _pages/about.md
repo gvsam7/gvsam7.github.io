@@ -16,7 +16,7 @@ Currently, I am developing a novel architecture that extracts salient features w
 
 Furthermore, I have recently investigated the Deep Learning robustness to domain shifts due to seasonal variations and proposed a novel architecture that extracts invariant feature representations between domains by combining salient texture feature extraction and a wider receptive field. This makes the model robust in the presence of domain shifts due to seasonal variations. This project contributes to the [SDG 13: Climate Action](https://sdgs.un.org/goals/goal13).
 
-During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). 
+During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9).
 
 Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, functional safety, project planning and management.
 
@@ -30,6 +30,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 * April 2023: Paper *Seasonal Domain Shift in the Global South...* got into EarthVision CVPR'23!
 * April 2023: Paper *Physics Aware Semantic Segmentation...* got into IGARSS'23 Oral!
 * July 2022: Presented my paper *Deep Learning Robustness to Domain Shifts...* on IGARSS'22!
+* April 2022: Presented my research internship's findings (*Use Remote Sensing and Deep Learning to Detect Pollutant Plants in China...*) at the DISCnet consortium!
 * April 2022: Paper *Deep Learning Robustness to Domain Shifts...* got into IGARSS'22!
 * April 2022: Paper *Detection and Characterisation of Pollutant Assets...* got into IGARSS'22 Oral!
 * January 2022: Research Internship Satellite Applications Catapult!
