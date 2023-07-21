@@ -12,7 +12,7 @@ I am a PhD candidate funded by EPSRC, working on Deep Learning for Remote Sensin
 
 Being part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed novel Deep Learning models that classify land use from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool. This project contributes to the [SDG 11: Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11). Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
 ![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
-Currently, I am developing a novel architecture that extracts salient features whilst capturing more context and spatial image information by employing a wider receptive field, thus enhancing semantic segmentation performance in aerial images. The proposed approach is efficient in detecting water bodies (lakes, rivers) from Unmanned Aerial Vehicles (UAVs), and compared to the current state of the art, the proposed model is particularly effective in segmenting water bodies from snow and ice. Additionally, it is resilient to shadows and effectively retrieves scene information that is hidden beneath canopy. This project contributes to the [SDG 6: Clean Water and Sanitation](https://sdgs.un.org/goals/goal6).
+Currently, I am developing a novel architecture that extracts salient features whilst capturing more context and spatial image information by employing a wider receptive field, thus enhancing semantic segmentation performance in aerial images. The proposed approach is efficient in detecting water bodies (lakes, rivers) from Unmanned Aerial Vehicles (UAVs). Compared to the current state of the art, the proposed model is resilient to shadows and effectively retrieves scene information that is hidden beneath canopy. This project contributes to the [SDG 6: Clean Water and Sanitation](https://sdgs.un.org/goals/goal6).
 
 Furthermore, I have recently investigated the Deep Learning robustness to domain shifts due to seasonal variations and proposed a novel architecture that extracts invariant feature representations between domains by combining salient texture feature extraction and a wider receptive field. This makes the model robust in the presence of domain shifts due to seasonal variations. This project contributes to the [SDG 13: Climate Action](https://sdgs.un.org/goals/goal13).
 
@@ -24,7 +24,8 @@ I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
-* June 2023: Invited to Chair session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
+* July 2023: Chaired session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
+* July 2023: Presented my paper *Physics Aware Semantic Segmentation...* on IGARSS'23!
 * June 2023: Presented my paper *Seasonal Domain Shift...* on EarthVision CVPR'23!
 * May 2023: Submitted my Thesis!
 * April 2023: Paper *Seasonal Domain Shift in the Global South...* got into EarthVision CVPR'23!
