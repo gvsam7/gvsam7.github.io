@@ -16,7 +16,7 @@ Currently, I am developing a novel architecture that extracts salient features w
 
 Furthermore, I have recently investigated the Deep Learning robustness to domain shifts due to seasonal variations and proposed a novel architecture that extracts invariant feature representations between domains by combining salient texture feature extraction and a wider receptive field. This makes the model robust in the presence of domain shifts due to seasonal variations. This project contributes to the [SDG 13: Climate Action](https://sdgs.un.org/goals/goal13).
 
-During my research internship at Satellite Applications Catapult, I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9).
+During my research internship at Satellite Applications Catapult (under the supervision of [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9).
 
 Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, functional safety, project planning and management.
 
