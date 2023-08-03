@@ -24,6 +24,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
+* August 2023: Passed my PhD Viva!
 * July 2023: Chaired session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
 * July 2023: Presented my paper *Physics Aware Semantic Segmentation...* on IGARSS'23!
 * June 2023: Presented my paper *Seasonal Domain Shift...* on EarthVision CVPR'23!
