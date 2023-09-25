@@ -47,7 +47,7 @@ Industry
 
 Education
 ======
-* PhD in Deep Learning Aerial Scene Analysis: Extracting Transferable Salient Features Between Seasonal Domains, University of Sussex, (expected)
+* PhD in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks, University of Sussex, 2023
 * MSc Modern Digital Communications Systems, University of Sussex, 2006
 * BEng Honours Electronics with Communications Engineering, University of Brighton, 2005
 
