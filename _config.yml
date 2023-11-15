@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Georgios Voulgaris"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Dr Georgios Voulgaris"
 description              : &description "Postdoctoral Researcher at the University of Oxford" # "PhD Student at University of Sussex"
