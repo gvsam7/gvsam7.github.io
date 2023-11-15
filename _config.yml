@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgios Voulgaris"
+title                    : "Dr Georgios Voulgaris"
 title_separator          : "-"
-name                     : &name "Georgios Voulgaris"
-description              : &description "PhD Student at University of Sussex"
+name                     : &name "Dr Georgios Voulgaris"
+description              : &description "Postdoctoral Researcher at the University of Oxford" # "PhD Student at University of Sussex"
 url                      : https://gvsam7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gvsam7/gvsam7.github.io.git"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Georgios Voulgaris"
+  name             : "Dr Georgios Voulgaris"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks."
-  location         : "Brighton"
+  bio              : "Postdoctoral Researcher at the University of Oxford in Deep Learning and Spatial Ecology." # "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks."
+  location         : "Oxford" # "Brighton"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d0VmKyAAAAAJ&hl=en&oi=sra"
