@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
-  I am a Postdoctoral researcher in Deep Learning and Spatial Ecology, working with <a href="https://www.biology.ox.ac.uk/people/professor-ben-sheldon">Prof Ben Sheldon</a> at the University of Oxford. My research focuses on developing computational Deep Learning methods to infer species identity and phenology at the level of individual trees from time series of drone images. My research aims to leverage Deep Learning, Computer Vision, and Remote Sensing technologies to enhance our understanding of ecosystems and biodiversity.
-</div>
 
 I am a Postdoctoral researcher in Deep Learning and Spatial Ecology, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon) at the University of Oxford. My research focuses on developing computational Deep Learning methods to infer species identity and phenology at the level of individual trees from time series of drone images. My research aims to leverage Deep Learning, Computer Vision, and Remote Sensing technologies to enhance our understanding of ecosystems and biodiversity.
 
