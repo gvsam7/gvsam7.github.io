@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Georgios Voulgaris"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at the University of Oxford in Deep Learning and Spatial Ecology." # "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks."
+  bio              : "Postdoctoral Researcher at the [University of Oxford](https://www.ox.ac.uk/) in Deep Learning and Spatial Ecology." # "PhD Candidate at the University of Sussex in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks."
   location         : "Oxford" # "Brighton"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
