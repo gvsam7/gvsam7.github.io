@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral researcher in Deep Learning and Spatial Ecology, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon) at the University of Oxford. My research focuses on developing computational Deep Learning methods to infer species identity and phenology at the level of individual trees from time series of drone images. My research aims to leverage Deep Learning, Computer Vision, and Remote Sensing technologies to enhance our understanding of ecosystems and biodiversity.
+I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Spatial Ecology, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon) at the University of Oxford. My research focuses on developing computational Deep Learning methods to infer species identity and phenology at the level of individual trees from time series of drone images. My research aims to leverage Deep Learning, Computer Vision, and Remote Sensing technologies to enhance our understanding of ecosystems and biodiversity.
 
 Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on extracting salient feature representations for domain adaptation and semantic segmentation tasks.
 
@@ -27,7 +27,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
-* November 2023: Postdoctoral Researcher - Sheldon Lab [University of Oxford](https://www.ox.ac.uk/)!
+* November 2023: Postdoctoral Researcher - Sheldon Lab [University of Oxford](https://www.biology.ox.ac.uk/people/georgios-voulgarishttps://www.biology.ox.ac.uk/people/georgios-voulgaris)!
 * August 2023: Passed my PhD Viva!
 * July 2023: Chaired session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
 * July 2023: Presented my paper *Physics Aware Semantic Segmentation...* on IGARSS'23!
