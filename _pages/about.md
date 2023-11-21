@@ -27,7 +27,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
-* November 2023: Postdoctoral Researcher - Sheldon Lab [University of Oxford](https://www.biology.ox.ac.uk/people/georgios-voulgarishttps://www.biology.ox.ac.uk/people/georgios-voulgaris)!
+* November 2023: Postdoctoral Researcher - Sheldon Lab [University of Oxford](https://www.biology.ox.ac.uk/people/georgios-voulgaris)!
 * August 2023: Passed my PhD Viva!
 * July 2023: Chaired session *Image Analysis for the Remote Sensing of Water Bodies* on IGARSS'23!
 * July 2023: Presented my paper *Physics Aware Semantic Segmentation...* on IGARSS'23!
