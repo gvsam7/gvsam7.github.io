@@ -27,8 +27,8 @@ These works provide an overview of my research in semantic segmentation of aeria
 
 * [Update] 1 more paper (first author) under blind peer-review.
 
-* **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](http://sro.sussex.ac.uk/id/eprint/111623/)"
-<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="http://sro.sussex.ac.uk/id/eprint/111623/"> IGARSS'23 </a>.
+* **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](https://ieeexplore.ieee.org/abstract/document/10281796)"
+<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/10281796"> IGARSS'23 </a>.
 
 ## Remote Sensing Scene Classification
 _____
