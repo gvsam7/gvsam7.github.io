@@ -12,17 +12,17 @@ These works provide an overview of my research on domain shifts in aerial scenes
 * **Georgios Voulgaris**, Andy Philippides, Jonathan Dolley, Jeremy Reffin, Fiona Marshall, Novi Quadrianto. (2023). "[*Seasonal Domain Shift in the Global South: Dataset and Deep Features Analysis.*](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html)"
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html"> CVPR'23 </a>.
 
- <span style="color:red;">Poster:</span>
+  <span style="color:red;">Poster:</span>
 [![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris.png)](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris.png)
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2022). "[*Deep Learning Robustness to Domain Shifts During Seasonal Variations.*](https://ieeexplore.ieee.org/abstract/document/9883940)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS'22 </a>.
 
- <span style="color:red;">Poster:</span>
+  <span style="color:red;">Poster:</span>
 [![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)
 
 
- <span style="color:red;">Presentation:</span>
+  <span style="color:red;">Presentation:</span>
 [![Presentation](https://img.youtube.com/vi/Zci4eASXmkQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Zci4eASXmkQ)
 
 ## Semantic Segmentation
@@ -42,7 +42,7 @@ These works provide an overview of my research in using remote sensing data and 
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>.
 
     <span style="color:red;">Presentation:</span>
- [![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
+[![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
