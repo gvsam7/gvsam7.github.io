@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## PhD Thesis
-_____
-This research focuses on domain adaptation, semantic segmentation and feature extraction in processing aerial scene data using convolutional neural networks. The impact of popular data augmentation techniques on model performance was investigated, with experiments conducted on networks of varying depths and complexity. Data compression, geometric transformations, regional dropout strategies, and pooling augmentations were assessed, with the best-performing models found to be those with deeper architectures trained on full-sized images. Additionally, the research explores transferable features between domains, proposes an architecture that combines salient feature extraction with a wider receptive field and highlights the importance of choosing appropriate feature priors for better model generalisation. The proposed architecture implements an initial Gabor convolutional layer with a mixture of maximum and average pooling layers and dilated convolution layer to reduce the impact of seasonal variations on the feature space distributions. This research provides insights into improving model performance in aerial scene classification by addressing feature bias combined with a widened receptive field and domain shifts. Finally, the impact of the proposed solutions on semantic segmentation was investigated, particularly in detecting water bodies from aerial images. The research explored the unique physical properties of water, namely colour and texture, to identify the features that make water distinguishable. This approach proved to be effective in increasing the semantic segmentation performance of water bodies, even in the presence of light variations and canopy and shadow occlusions.
-
-* Georgios Voulgaris (2023). "[*Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks.*](https://sussex.figshare.com/articles/thesis/Deep_learning_aerial_scene_analysis_extracting_salient_features_for_domain_adaptation_and_semantic_segmentation_tasks/24573301)"
-
-
 ## Domain Adaptation
 _____
 These works provide an overview of my research on domain shifts in aerial scenes due to seasonal variations between wet and dry seasons in the Global South. The aim of this work is to perform an aerial scene analysis and investigate which features Deep Learning models rely on when classifying aerial scenes. Based on the findings, we propose Deep Learning architectures that extract invariant feature representations across wet and dry season domains.
@@ -50,6 +43,13 @@ These works provide an overview of my research in using remote sensing data and 
 
     <span style="color:red;">Presentation:</span>
 [![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
+
+
+## PhD Thesis
+_____
+This research explores transferable features between domains, proposes Deep Learning architectures that combine salient feature extraction with a wider receptive field and highlights the importance of choosing appropriate feature priors for better model generalisation for domain adaptation and semantic segmentation tasks.
+
+* Georgios Voulgaris (2023). "[*Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks.*](https://sussex.figshare.com/articles/thesis/Deep_learning_aerial_scene_analysis_extracting_salient_features_for_domain_adaptation_and_semantic_segmentation_tasks/24573301)"
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
