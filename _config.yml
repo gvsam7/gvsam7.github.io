@@ -11,7 +11,7 @@ title                    : "About"
 title_separator          : "-"
 name                     : &name "Dr Georgios Voulgaris"
 description              : &description "Postdoctoral Researcher at the University of Oxford" # "PhD Student at University of Sussex"
-url                      : https://gvsam7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://georgiosvoulgaris.com/  # https://gvsam7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gvsam7/gvsam7.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google3ec089c2df862fa2"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
