@@ -29,14 +29,16 @@ These works provide an overview of my research on domain shifts in aerial scenes
 _____
 These works provide an overview of my research in semantic segmentation of aerial scenes.
 
-* [Update] 1 more paper (first author) under blind peer-review.
+* [2024] 1 more paper (first author) under blind peer-review.
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](https://ieeexplore.ieee.org/abstract/document/10281796)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/10281796"> IGARSS'23 </a>.
 
-## Remote Sensing Scene Classification
+## Multimodal Deep Learning Data Fusion
 _____
-These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), short wave infrared (bands 6 and 7), and a geological ratio of the short-wave infrared image chips for two classes (cement plants and the surrounding land cover). I then trained and validated various state-of-the-art deep learning architectures (VGG, ResNet, EfficientNet) on the created datasets.  
+These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), Short Wave Infrared (bands 6 and 7), and a geological ratio of the Short-Wave Infrared.
+
+* Georgios Voulgaris, Maral Bayaraa, Cristian Rossi. (2024). Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach (Under Review).    
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>.
