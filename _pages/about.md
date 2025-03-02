@@ -11,8 +11,6 @@ redirect_from:
 
 I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). My research focuses on developing innovative Deep Learning models to advance feature representation learning, with an emphasis on salient feature extraction for segmenting complex and densely populated scenes. Additionally, I design architectures for multimodal deep learning and data fusion, combining diverse data sources — such as RGB, hyperspectral, and thermal imagery — to improve generalisation across various domains. My work bridges theoretical advancements in Deep Learning with practical applications in Remote Sensing, Environmental Monitoring, and Industrial Scene Analysis.
 
-
-
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
 <!-- My research aims to improve feature representation learning in deep networks, focusing on salient feature extraction for segmentation tasks in dense scenes. My work bridges theoretical advancements in feature representation learning with practical applications in remote sensing, environmental monitoring, and industrial scene understanding.-->
