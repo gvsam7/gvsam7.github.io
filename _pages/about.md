@@ -40,6 +40,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 
 ## Recent News
 
+* March 2025: Paper *Detecting Cement Plants with Landsat-8...* got into IGARSS'25!
 * March 2025: [Computer Vision for Ecological and Biodiversity Monitoring](https://cvebm.blogs.lincoln.ac.uk/) ICIP Workshop Organising Committee!
 * March 2025: [EarthVision](https://www.grss-ieee.org/events/earthvision-2025/) CVPR Workshop Technical Committee!
 * March 2024: [EarthVision](https://www.grss-ieee.org/events/earthvision-2024/?tab=people) CVPR Workshop Technical Committee!
