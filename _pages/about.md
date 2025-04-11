@@ -43,7 +43,7 @@ I am always up for new collaborations, drop me an email if you want to chat!
 * April 2025: Paper *Bridging Classical and Modern Computer Vision...* got into EarthVision CVPR'25!
 * March 2025: Paper *Detecting Cement Plants with Landsat-8...* got into IGARSS'25!
 * March 2025: [Computer Vision for Ecological and Biodiversity Monitoring](https://cvebm.blogs.lincoln.ac.uk/) ICIP Workshop Organising Committee!
-* March 2025: [EarthVision](https://www.grss-ieee.org/events/earthvision-2025/) CVPR Workshop Technical Committee!
+* March 2025: [EarthVision](https://www.grss-ieee.org/events/earthvision-2025/?tab=people) CVPR Workshop Technical Committee!
 * March 2024: [EarthVision](https://www.grss-ieee.org/events/earthvision-2024/?tab=people) CVPR Workshop Technical Committee!
 * November 2023: Postdoctoral Researcher - Sheldon Lab [University of Oxford](https://www.biology.ox.ac.uk/people/georgios-voulgaris)!
 * August 2023: Passed my PhD Viva!
