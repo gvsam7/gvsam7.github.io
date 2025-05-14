@@ -11,14 +11,14 @@ redirect_from:
 
 I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
 
-My work investigates multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. My work bridges theoretical advancements in deep learning with practical applications in remote sensing, environmental monitoring, and industrial scene analysis.
+Additionally, I investigate multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. My work bridges theoretical advancements in deep learning with practical applications in remote sensing, and industrial scene analysis.
 
 **My current research portfolio includes:**
-* A novel semantic segmentation architecture with custom convolutional layers that enhance feature extraction in complex aerial scenes.
-* Hybrid CNN-Transformer models that outperform existing Transformer-based methods.
-*	Mid-level data fusion for industrial monitoring using multi-temporal and multi-spectral satellite data.
+* Developing a novel semantic segmentation architecture with custom convolutional layers that enhance feature extraction in complex aerial scenes.
+* Creating hybrid CNN-Transformer models that outperform existing Transformer-based methods.
+*	Designing multimodal mid-level data fusion architectures for industrial monitoring using multi-temporal and multi-spectral remotely sensed data.
 *	Robust segmentation models for UAV-based waterbody semantic segmentation, resilient to occlusion and shadowing.
-*	Solutions addressing deep learning robustness to seasonal domain shifts through invariant feature representation.
+*	Enhancing deep learning robustness to seasonal domain shifts through invariant feature representation.
 
 To support these efforts, I curate high-quality datasets for various computer vision tasks across diverse environments.
 
@@ -26,18 +26,21 @@ To support these efforts, I curate high-quality datasets for various computer vi
 
 <!-- My research aims to improve feature representation learning in deep networks, focusing on salient feature extraction for segmentation tasks in dense scenes. My work bridges theoretical advancements in feature representation learning with practical applications in remote sensing, environmental monitoring, and industrial scene understanding.-->
 
-Prior to this, I completed an EPSRC-funded PhD at the University of Sussex under [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on salient feature representation in domain adaptation and semantic segmentation, contributing new models for remote sensing applications.
+**Background:**
+Prior to this, I completed an EPSRC-funded PhD at the University of Sussex under [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on salient feature representation in domain adaptation and semantic segmentation, leading to the development of new models for remote sensing applications.
 
 <!-- Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on developing novel Deep Learning models that extract salient feature representations for domain adaptation and semantic segmentation tasks. -->
 
-As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contributed to a [British Academy funded project on Satellite/Aerial Image Scene Segmentation](https://wearepal.ai/projects/ssrp). I designed novel deep learning models for land-use classification from imagery, integrating multiple data types into a web-based mapping and visualisation tool for peri-urban agriculture in Ghaziabad, India. Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
+As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contributed to a [British Academy-funded project on Satellite/Aerial Image Scene Segmentation](https://wearepal.ai/projects/ssrp). I designed novel deep learning models for land-use classification from imagery, integrating multiple data types into a web-based mapping and visualisation tool for peri-urban agriculture in Ghaziabad, India. Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
 <!-- Being part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL) – an interdisciplinary research team, I was involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed novel Deep Learning models that classify land use from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project was to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool. This project contributed to the [SDG 11: Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11). Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.-->
 ![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
 During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics-aware AI and remote sensing data to detect and classify cement plants in China by leveraging physical properties such as ambient temperature and soil moisture. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
-Prior to my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
+**Industrial Experience:**
+Prior completing my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
 
-I am always open to new collaborations — feel free to get in touch if you would like to chat!
+**Open to Collaboration:**
+I am always eager to explore new collaborations — Feel free to get in touch if you would like to connect!
 
 ## Recent News
 
