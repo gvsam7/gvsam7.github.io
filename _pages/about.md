@@ -27,6 +27,7 @@ To support these efforts, I curate high-quality datasets for various computer vi
 <!-- My research aims to improve feature representation learning in deep networks, focusing on salient feature extraction for segmentation tasks in dense scenes. My work bridges theoretical advancements in feature representation learning with practical applications in remote sensing, environmental monitoring, and industrial scene understanding.-->
 
 **Background:**
+
 Prior to this, I completed an EPSRC-funded PhD at the University of Sussex under [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on salient feature representation in domain adaptation and semantic segmentation, leading to the development of new models for remote sensing applications.
 
 <!-- Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on developing novel Deep Learning models that extract salient feature representations for domain adaptation and semantic segmentation tasks. -->
@@ -37,9 +38,11 @@ As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contrib
 During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics-aware AI and remote sensing data to detect and classify cement plants in China by leveraging physical properties such as ambient temperature and soil moisture. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
 **Industrial Experience:**
+
 Prior completing my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
 
 **Open to Collaboration:**
+
 I am always eager to explore new collaborations — Feel free to get in touch if you would like to connect!
 
 ## Recent News
