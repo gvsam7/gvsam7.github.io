@@ -11,16 +11,16 @@ redirect_from:
 
 I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
 
-Additionally, I investigate multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. My work bridges theoretical advancements in deep learning with practical applications in remote sensing, and industrial scene analysis.
+Additionally, I investigate multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. By advancing deep learning architectures, my work drives methodological innovation, validated through remote sensing.
 
 **My current research portfolio includes:**
-* Developing a novel semantic segmentation architecture with custom convolutional layers that enhance feature extraction in complex aerial scenes.
-* Creating hybrid CNN-Transformer models that outperform existing Transformer-based methods.
+* Introducing a novel semantic segmentation architecture featuring custom convolutional layers that enhance feature extraction in complex visual domains, advancing segmentation robustness beyond standard methods.
+* Developing hybrid CNN-Transformer architectures that redefine feature attention mechanisms, optimising the synergy between convolutional feature locality and Transformer-based global context modelling.
 *	Designing multimodal mid-level data fusion architectures for industrial monitoring using multi-temporal and multi-spectral remotely sensed data.
-*	Robust segmentation models for UAV-based waterbody semantic segmentation, resilient to occlusion and shadowing.
+*	Creating robust segmentation models for UAV-based waterbody semantic segmentation, resilient to occlusion and shadowing.
 *	Enhancing deep learning robustness to seasonal domain shifts through invariant feature representation.
 
-To support these efforts, I curate high-quality datasets for various computer vision tasks across diverse environments.
+To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments.
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
