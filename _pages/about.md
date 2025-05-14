@@ -15,7 +15,7 @@ I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-vo
 
 <!-- My research aims to improve feature representation learning in deep networks, focusing on salient feature extraction for segmentation tasks in dense scenes. My work bridges theoretical advancements in feature representation learning with practical applications in remote sensing, environmental monitoring, and industrial scene understanding.-->
 
-Prior to this, I completed an EPSRC-funded PhD at the University of Sussex, where I focused on Deep Learning and Computer Vision for Remote Sensing systems. Under the supervision of [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), my research involved developing novel models for salient feature representation in domain adaptation and semantic segmentation tasks.
+Prior to this, I completed an EPSRC-funded PhD at the University of Sussex, where I focused on deep learning and computer vision for remote sensing systems. Under the supervision of [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), my research involved developing novel models for salient feature representation in domain adaptation and semantic segmentation tasks.
 
 <!-- Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on developing novel Deep Learning models that extract salient feature representations for domain adaptation and semantic segmentation tasks. -->
 
@@ -31,11 +31,11 @@ My ongoing research includes:
 
 To support these efforts, I curate high-quality datasets for various computer vision tasks across diverse environments.
 
-During my research internship at Satellite Applications Catapult (under the supervision of [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics aware AI and Remote Sensing data to detect and classify cement plants in China by exploiting physical properties such as plant surrounding temperature and soil moisture. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
+During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics-aware AI and remote sensing data to detect and classify cement plants in China by leveraging physical properties such as ambient temperature and soil moisture. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
-Prior my PhD, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, functional safety, project planning and management.
+Prior my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
 
-I am always up for new collaborations, drop me an email if you want to chat!
+I am always open to new collaborations — feel free to get in touch if you would like to chat!
 
 ## Recent News
 
