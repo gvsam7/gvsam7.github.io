@@ -23,7 +23,7 @@ As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contrib
 <!-- Being part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL) – an interdisciplinary research team, I was involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed novel Deep Learning models that classify land use from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project was to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool. This project contributed to the [SDG 11: Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11). Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.-->
 ![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
 My current research portfolio includes:
-* A novel semantic segmentation architecture with custom convolutional layers for complex aerial scenes.
+* A novel semantic segmentation architecture with custom convolutional layers that enhance feature extraction in complex aerial scenes.
 * Hybrid CNN-Transformer models that outperform existing Transformer-based methods.
 *	Mid-level data fusion for industrial monitoring using multi-temporal and multi-spectral satellite data.
 *	Robust segmentation models for UAV-based waterbody semantic segmentation, resilient to occlusion and shadowing.
@@ -33,7 +33,7 @@ To support these efforts, I curate high-quality datasets for various computer vi
 
 During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics-aware AI and remote sensing data to detect and classify cement plants in China by leveraging physical properties such as ambient temperature and soil moisture. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
-Prior my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
+Prior to my PhD, I worked as a Control and Automation Design Engineer in the oil and gas industry, gaining experience across the full software and hardware development lifecycle — including systems sensing and control, communication protocols, functional safety, and project planning.
 
 I am always open to new collaborations — feel free to get in touch if you would like to chat!
 
