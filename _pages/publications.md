@@ -30,6 +30,7 @@ _____
 These works provide an overview of my research in semantic segmentation of aerial scenes.
 
 * Georgios Voulgaris. (2025). "[*Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation.*](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html)"
+</i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html"> CVPR'25 </a>.
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](https://ieeexplore.ieee.org/abstract/document/10281796)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/10281796"> IGARSS'23 </a>.
