@@ -39,7 +39,8 @@ These works provide an overview of my research in semantic segmentation of aeria
 _____
 These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), Short Wave Infrared (bands 6 and 7), and a geological ratio of the Short-Wave Infrared.
 
-* **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.    
+* **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.
+<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>.    
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>.
