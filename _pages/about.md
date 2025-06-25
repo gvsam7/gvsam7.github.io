@@ -47,6 +47,8 @@ I am always eager to explore new collaborations — Feel free to get in touch if
 
 ## Recent News
 
+* June 2025: Paper *Bridging Classical and Modern Computer Vision...* accepted as a spotlight and a poster at Greeks in AI'25 Symposium!  
+* May 2025: Gave a seminar in Embedding Differential Signal Processing Priors to Deep Learning models at [Oxford Mathematical Institute Machine Learning and Data Science Seminar](https://www.maths.ox.ac.uk/node/71163)! 
 * April 2025: Paper *Bridging Classical and Modern Computer Vision...* got into EarthVision CVPR'25!
 * March 2025: Paper *Detecting Cement Plants with Landsat-8...* got into IGARSS'25 Oral!
 * March 2025: [Computer Vision for Ecological and Biodiversity Monitoring](https://cvebm.blogs.lincoln.ac.uk/) ICIP Workshop Organising Committee!
