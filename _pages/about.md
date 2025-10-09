@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
+I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). <!--My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
 
 Additionally, I investigate multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. By advancing deep learning architectures, my work drives methodological innovation, validated through remote sensing.
 
@@ -20,7 +20,19 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 *	Creating robust segmentation models for UAV-based waterbody semantic segmentation, resilient to occlusion and shadowing.
 *	Enhancing deep learning robustness to seasonal domain shifts through invariant feature representation.
 
-To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments.
+To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
+My research advances deep learning by integrating principles of visual perception—such as texture, shape, and frequency analysis—into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
+
+I also investigate multimodal deep learning and data fusion, developing models informed by the physical properties of remotely sensed data to improve generalisation and interpretability across environmental domains. By advancing deep learning architectures, my work drives methodological innovation validated through real-world remote sensing challenges.
+
+**Current research themes:**
+* Semantic segmentation architectures featuring custom convolutional layers for complex visual domains
+* Hybrid CNN–Transformer architectures optimising the synergy between local and global feature representations
+* Multimodal and multi-spectral data fusion for environmental and industrial monitoring
+* UAV-based segmentation models resilient to occlusion and seasonal variation
+* Domain-invariant feature learning for improved cross-sensor and cross-season performance
+
+To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications.
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
@@ -48,7 +60,7 @@ I am always eager to explore new collaborations — Feel free to get in touch if
 ## Recent News
 
 * June 2025: Paper *Bridging Classical and Modern Computer Vision...* accepted as a spotlight and a poster at Greeks in AI'25 Symposium!  
-* May 2025: Gave a seminar in Embedding Differential Signal Processing Priors to Deep Learning models at [Oxford Mathematical Institute Machine Learning and Data Science Seminar](https://www.maths.ox.ac.uk/node/71163)! 
+* May 2025: Gave a seminar in Embedding Differential Signal Processing Priors to Deep Learning models at [Oxford Mathematical Institute Machine Learning and Data Science Seminar](https://www.maths.ox.ac.uk/node/71163)!
 * April 2025: Paper *Bridging Classical and Modern Computer Vision...* got into EarthVision CVPR'25!
 * March 2025: Paper *Detecting Cement Plants with Landsat-8...* got into IGARSS'25 Oral!
 * March 2025: [Computer Vision for Ecological and Biodiversity Monitoring](https://cvebm.blogs.lincoln.ac.uk/) ICIP Workshop Organising Committee!
