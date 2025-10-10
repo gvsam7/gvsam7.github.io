@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). <!--My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
+I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon).
+
+<!--My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
 
 Additionally, I investigate multimodal deep learning and data fusion techniques, exploring how combining diverse modalities — such as RGB, hyperspectral, and thermal imagery — can improve model generalisation across domains. By advancing deep learning architectures, my work drives methodological innovation, validated through remote sensing.
 
@@ -21,6 +23,7 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 *	Enhancing deep learning robustness to seasonal domain shifts through invariant feature representation.
 
 To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
+
 My research advances deep learning by integrating principles of visual perception—such as texture, shape, and frequency analysis—into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
 
 I also investigate multimodal deep learning and data fusion, developing models informed by the physical properties of remotely sensed data to improve generalisation and interpretability across environmental domains. By advancing deep learning architectures, my work drives methodological innovation validated through real-world remote sensing challenges.
