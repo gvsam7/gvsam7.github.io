@@ -24,7 +24,7 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 
 To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
 
-My research advances deep learning by integrating principles of visual perception—such as texture, shape, and frequency analysis—into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
+My research advances deep learning by integrating principles of visual perception, such as texture, shape, and frequency analysis, into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
 
 I also investigate multimodal deep learning and data fusion, developing models informed by the physical properties of remotely sensed data to improve generalisation and interpretability across environmental domains. By advancing deep learning architectures, my work drives methodological innovation validated through real-world remote sensing challenges.
 
@@ -32,7 +32,7 @@ I also investigate multimodal deep learning and data fusion, developing models i
 * Semantic segmentation architectures featuring custom convolutional layers for complex visual domains
 * Hybrid CNN–Transformer architectures optimising the synergy between local and global feature representations
 * Multimodal and multi-spectral data fusion for environmental and industrial monitoring
-* UAV-based segmentation models resilient to occlusion and seasonal variation
+* UAV-based segmentation models resilient to occlusions, shadows, and light variation
 * Domain-invariant feature learning for improved cross-sensor and cross-season performance
 
 To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications.
