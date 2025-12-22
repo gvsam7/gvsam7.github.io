@@ -24,7 +24,7 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 
 To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
 
-My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding principles such as frequency selectivity, texture–shape decomposition, and modality aware priors into learnable architectures, with the aim of improving robustness, interpretability, and generalisation under real world conditions.
+My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding principles such as frequency selectivity, texture shape decomposition, and modality aware priors into learnable architectures, with the aim of improving robustness, interpretability, and generalisation under real world conditions.
 
 A central theme of my work is the design of novel convolutional and hybrid CNN–Transformer architectures that explicitly encode perceptual and physical priors. Rather than treating non-RGB sensing modalities as domain specific applications, I use them as stress tests for modern deep learning, exposing systematic failure modes in texture biased models and motivating principled architectural corrections.
 
