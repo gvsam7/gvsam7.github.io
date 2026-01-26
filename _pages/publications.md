@@ -19,7 +19,14 @@ These works provide an overview of my research on domain shifts in aerial scenes
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS'22 </a>.
 
   <span style="color:red;">Poster:</span>
-[![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)
+<details style="margin-left: 2.5em; margin-top:0;">
+  <summary style="color:#4a0101; cursor:pointer;">Poster (click to expand)</summary>
+  <a href="https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png" target="_blank">
+    <img src="https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png"
+         alt="Poster"
+         style="width:100%; max-width:800px;">
+  </a>
+</details>
 <details style="margin-left: 2.5em; margin-top:0; padding-top:0;">
   <summary style="color:#4a0101; cursor:pointer;">Presentation (click to expand)</summary>
   <a href="https://www.youtube.com/watch?v=Zci4eASXmkQ" target="_blank">
