@@ -45,7 +45,8 @@ These works provide an overview of my research in using remote sensing data and 
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>. <span style="color:red;">Oral</span>    
 
 * Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
-<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>. <span style="color:red;">Oral</span> <details style="margin-left: 1.5em; margin-top: 2px;">
+<i>International Geoscience and Remote Sensing Symposium (IGARSS).</i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772">IGARSS'22</a>. <span style="color:red;">Oral</span>␣␣
+<details style="margin-left: 1.5em; margin-top:0;">
   <summary style="color:#4a0101; cursor:pointer;">Presentation (click to expand)</summary>
   <a href="https://www.youtube.com/watch?v=0xkWbdjljWk" target="_blank">
     <img src="https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg"
