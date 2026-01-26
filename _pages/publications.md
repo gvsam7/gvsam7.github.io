@@ -10,7 +10,7 @@ _____
 These works provide an overview of my research on domain shifts in aerial scenes due to seasonal variations between wet and dry seasons in the Global South. The aim of these works is to perform aerial scene analysis and investigate which features Deep Learning models rely on when classifying aerial scenes. Based on the findings, we propose Deep Learning architectures that extract invariant feature representations across wet and dry seasonal domains.
 
 * **Georgios Voulgaris**, Andy Philippides, Jonathan Dolley, Jeremy Reffin, Fiona Marshall, Novi Quadrianto. (2023). "[*Seasonal Domain Shift in the Global South: Dataset and Deep Features Analysis.*](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html)"
-<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html"> CVPR'23 </a>.
+<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) EarthVision. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Voulgaris_Seasonal_Domain_Shift_in_the_Global_South_Dataset_and_Deep_CVPRW_2023_paper.html"> CVPR'23 </a>.
 
   <span style="color:red;">Poster:</span>
 [![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris.png)](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris.png)
@@ -30,7 +30,7 @@ _____
 These works provide an overview of my research in semantic segmentation of aerial scenes.
 
 * Georgios Voulgaris. (2025). "[*Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation.*](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html)"
-</i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html"> CVPR'25 </a>.
+<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) EarthVision. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html"> CVPR'25 </a>. <span style="color:red;">Spotlight</span>
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](https://ieeexplore.ieee.org/abstract/document/10281796)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/10281796"> IGARSS'23 </a>. <span style="color:red;">Oral</span>
