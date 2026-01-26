@@ -55,6 +55,24 @@ These works provide an overview of my research in using remote sensing data and 
   </a>
 </details>
 
+<li>
+  Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott,
+  <strong>Georgios Voulgaris</strong>, Christophe Christiaen, Matthew McCarten. (2022).
+  <a href="https://ieeexplore.ieee.org/abstract/document/9883772"><em>Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.</em></a>
+  <em>International Geoscience and Remote Sensing Symposium (IGARSS).</em>
+  Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772">IGARSS'22</a>.
+  <span style="color:#4a0101;">Oral</span>
+
+  <details style="margin-left: 1.5em; margin-top: 2px;">
+    <summary style="color:#4a0101; cursor:pointer;">Presentation (click to expand)</summary>
+    <a href="https://www.youtube.com/watch?v=0xkWbdjljWk" target="_blank">
+      <img src="https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg"
+           alt="Presentation Thumbnail"
+           style="width:100%; max-width:600px;">
+    </a>
+  </details>
+</li>
+
 ## PhD Thesis
 _____
 This research explores transferable features between domains, proposes Deep Learning architectures that combine salient feature extraction with a wider receptive field and highlights the importance of choosing appropriate feature priors for better model generalisation for domain adaptation and semantic segmentation tasks.
