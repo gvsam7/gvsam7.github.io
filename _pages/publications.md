@@ -39,6 +39,8 @@ These works provide an overview of my research in semantic segmentation of aeria
 _____
 These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), Short Wave Infrared (bands 6 and 7), and a geological ratio of the Short-Wave Infrared.
 
+* Georgios Voulgaris. (2026). "[*FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors.*](https://arxiv.org/abs/2512.19504)" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), under review.
+
 * **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). "[*Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.*](https://ieeexplore.ieee.org/document/11243713)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>. <span style="color:red;">Oral</span>    
 
