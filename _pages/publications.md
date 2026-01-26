@@ -17,8 +17,6 @@ These works provide an overview of my research on domain shifts in aerial scenes
 
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2022). "[*Deep Learning Robustness to Domain Shifts During Seasonal Variations.*](https://ieeexplore.ieee.org/abstract/document/9883940)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883940"> IGARSS'22 </a>.
-
-  <span style="color:red;">Poster:</span>
 <details style="margin-left: 2.5em; margin-top:0;">
   <summary style="color:#4a0101; cursor:pointer;">Poster (click to expand)</summary>
   <a href="https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png" target="_blank">
