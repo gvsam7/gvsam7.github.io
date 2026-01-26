@@ -50,6 +50,16 @@ These works provide an overview of my research in using remote sensing data and 
     <span style="color:red;">Presentation:</span>
 [![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
 
+<details>
+  <summary style="color:red; cursor:pointer;">Presentation (click to expand)</summary>
+  <br>
+  <a href="https://www.youtube.com/watch?v=0xkWbdjljWk" target="_blank">
+    <img src="https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg"
+         alt="Presentation Thumbnail"
+         style="width:100%; max-width:600px;">
+  </a>
+</details>
+
 ## PhD Thesis
 _____
 This research explores transferable features between domains, proposes Deep Learning architectures that combine salient feature extraction with a wider receptive field and highlights the importance of choosing appropriate feature priors for better model generalisation for domain adaptation and semantic segmentation tasks.
