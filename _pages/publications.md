@@ -44,14 +44,19 @@ These works provide an overview of my research in using remote sensing data and 
 * **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). "[*Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.*](https://ieeexplore.ieee.org/document/11243713)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>. <span style="color:red;">Oral</span>    
 
-* Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
-<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>. <span style="color:red;">Oral</span>
+* Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, <strong>Georgios Voulgaris</strong>, Christophe Christiaen, Matthew McCarten. (2022).
+<a href="https://ieeexplore.ieee.org/abstract/document/9883772"><em>Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.</em></a>
+<em>International Geoscience and Remote Sensing Symposium (IGARSS).</em>
+Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772">IGARSS'22</a>.
+<span style="color:#008080;">Oral</span>
+
 <details>
   <summary style="color:#008080; cursor:pointer;">Presentation (click to expand)</summary>
   <br>
-  <a href="https://www.youtube.com/watch?v=0xkWbdjljWk" target="_blank">
+  <a href="https://www.youtube.com/watch?v=0xkWbdjljWk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg"
          alt="Presentation Thumbnail"
+         title="Watch the IGARSS'22 Oral Presentation"
          style="width:100%; max-width:600px;">
   </a>
 </details>
