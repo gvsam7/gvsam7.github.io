@@ -20,10 +20,14 @@ These works provide an overview of my research on domain shifts in aerial scenes
 
   <span style="color:red;">Poster:</span>
 [![Poster](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)](https://gvsam7.github.io/images/Poster_GeorgiosVoulgaris_IGARSS2022.png)
-
-
-  <span style="color:red;">Presentation:</span>
-[![Presentation](https://img.youtube.com/vi/Zci4eASXmkQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Zci4eASXmkQ)
+<details style="margin-left: 2.5em; margin-top:0; padding-top:0;">
+  <summary style="color:#4a0101; cursor:pointer;">Presentation (click to expand)</summary>
+  <a href="https://www.youtube.com/watch?v=Zci4eASXmkQ" target="_blank">
+    <img src="https://img.youtube.com/vi/Zci4eASXmkQ/maxresdefault.jpg"
+         alt="Presentation Thumbnail"
+         style="width:100%; max-width:600px;">
+  </a>
+</details>
 
 ## Semantic Segmentation
 _____
