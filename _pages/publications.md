@@ -35,12 +35,6 @@ These works provide an overview of my research in semantic segmentation of aeria
 * **Georgios Voulgaris**, Andy Philippides, Novi Quadrianto. (2023). "[*Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures.*](https://ieeexplore.ieee.org/abstract/document/10281796)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/10281796"> IGARSS'23 </a>. <span style="color:red;">Oral</span>
 
-* Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
-<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>. <span style="color:red;">Oral</span>
-
-    <span style="color:red;">Presentation:</span>
-[![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
-
 ## Multimodal Deep Learning Data Fusion
 _____
 These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), Short Wave Infrared (bands 6 and 7), and a geological ratio of the Short-Wave Infrared.
@@ -49,6 +43,12 @@ These works provide an overview of my research in using remote sensing data and 
 
 * **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). "[*Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.*](https://ieeexplore.ieee.org/document/11243713)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>. <span style="color:red;">Oral</span>    
+
+* Cristian Rossi, Nataliya Tkachenko, Maral Bayaraa, Peter Foster, Steven Reece, Kimberly Scott, **Georgios Voulgaris**, Christophe Christiaen, Matthew McCarten. (2022). "[*Detection and Characterisation of Pollutant Assets with AI and EO to Prioritise Green Investments: The Geoasset Framework.*](https://ieeexplore.ieee.org/abstract/document/9883772)"
+<i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://ieeexplore.ieee.org/abstract/document/9883772"> IGARSS'22 </a>. <span style="color:red;">Oral</span>
+
+    <span style="color:red;">Presentation:</span>
+[![Presentation](https://img.youtube.com/vi/0xkWbdjljWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0xkWbdjljWk)
 
 ## PhD Thesis
 _____
