@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Across these areas, my work treats application domains as diagnostic tools for studying representation learning, rather than as ends in themselves.
+
 ## Semantic Segmentation
 _____
 My work in semantic segmentation explores how principles from visual perception and physical image formation can be embedded into deep learning architectures to improve robustness and generalisation in complex real-world conditions. I use visually challenging data to expose systematic model weaknesses and to motivate more principled architectural design. By incorporating perceptually grounded and physically informed inductive biases, my work develops representations that are more stable under occlusions, illumination changes, and domain shifts, while also improving interpretability.
