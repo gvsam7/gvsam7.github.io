@@ -51,7 +51,7 @@ I also investigate multimodal deep learning and data fusion, developing models i
 To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications. -->
 
 **Datasets and Experimental Infrastructure**
-To support and stress test methodological development, I curate high quality datasets that expose real world failure modes in computer vision and remote sensing models. These datasets are designed not as standalone contributions, but as measurement instruments for analysing representation robustness, inductive bias, and generalisation behaviour under physically grounded variability.
+I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
@@ -59,22 +59,22 @@ To support and stress test methodological development, I curate high quality dat
 
 **Background:**
 
-I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), where my research focused on salient feature representation, domain adaptation, and semantic segmentation. This work laid the foundations of my current research agenda by investigating how feature representations degrade under domain shift and how architectural design choices influence generalisation.
+I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). <!--, where my research focused on salient feature representation, domain adaptation, and semantic segmentation. This work laid the foundations of my current research agenda by investigating how feature representations degrade under domain shift and how architectural design choices influence generalisation. -->
 
 <!-- Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on developing novel Deep Learning models that extract salient feature representations for domain adaptation and semantic segmentation tasks. -->
 
-As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contributed to a [British Academy-funded project on Satellite/Aerial Image Scene Segmentation](https://wearepal.ai/projects/ssrp)on satellite and aerial image scene segmentation. In this context, I designed deep learning models for land use classification and multi-domain, multi-temporal data integration, using large scale real world imagery to study robustness between domains. Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
+
 <!-- Being part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL) – an interdisciplinary research team, I was involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed novel Deep Learning models that classify land use from satellite/aerial images. For more details please see: - [PAL](https://wearepal.ai/projects/ssrp). The aim of the project was to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool. This project contributed to the [SDG 11: Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11). Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.-->
-![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
-During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics aware machine learning to industrial remote sensing, developing models that leveraged physical properties such as temperature and soil moisture to detect and characterise cement production facilities in China. This experience directly informed my subsequent work on embedding physical signal properties as inductive bias in deep learning architectures. <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
+
+ <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
 **Industrial Experience:**
 
-Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry. This role provided hands on experience with sensor driven systems, signal acquisition, control architectures, and safety critical software development, shaping my long standing interest in how physical processes, sensing constraints, and system design interact with data driven models.
+Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry, an experience that continues to inform my interest in physically grounded learning and sensing constraints.
 
 **Open to Collaboration:**
 
-I am always interested in discussing new research directions and potential collaborations, particularly around representation learning, inductive bias, and robust perception under real world sensing constraints. Feel free to get in touch!
+I am always interested in discussing new research directions and potential collaborations around representation learning, inductive bias, and robust perception under real-world sensing constraints.
 
 ## Recent News
 

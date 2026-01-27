@@ -12,12 +12,18 @@ redirect_from:
 
 Research Internship
 ======
+During my research internship at Satellite Applications Catapult (supervised by [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)), I applied physics aware machine learning to industrial remote sensing, developing models that leveraged physical properties such as temperature and soil moisture to detect and characterise cement production facilities in China. This experience directly informed my subsequent work on embedding physical signal properties as inductive bias in deep learning architectures.
 * Deep Learning Coupled with Earth Observation Data Exploration of Polluting Plants Detection
   * 10 Jan 2022 - 10 Apr 2022
   * [Satellite Applications Catapult](https://sa.catapult.org.uk/)
   * Duties included: Deep Learning and Earth Observation Satellite Data.
   * Supervisor: [Dr Cristian Rossi](https://ieeexplore.ieee.org/author/37590354100)
   * [Publication](https://ieeexplore.ieee.org/abstract/document/9883772)
+
+British Academy
+======
+As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contributed to a [British Academy-funded project on Satellite/Aerial Image Scene Segmentation](https://wearepal.ai/projects/ssrp)on satellite and aerial image scene segmentation. In this context, I designed deep learning models for land use classification and multi-domain, multi-temporal data integration, using large scale real world imagery to study robustness between domains. Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
+![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
 
 Teaching Assistant
 ======
@@ -40,6 +46,7 @@ Teaching Assistant
 
 Industry
 ======
+Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry. This role provided hands on experience with sensor driven systems, signal acquisition, control architectures, and safety critical software development, shaping my long standing interest in how physical processes, sensing constraints, and system design interact with data driven models.
 * Control and Automation Design Engineer (Oil and Gas)
   * 18 September 2006 - 18 May 2013
   * [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
