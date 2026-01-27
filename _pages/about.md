@@ -24,25 +24,23 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 
 To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
 
-My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding principles such as frequency selectivity, texture shape decomposition, and modality aware priors into learnable architectures, with the aim of improving robustness, interpretability, and generalisation under real world conditions.
+My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding perceptually and physically grounded principles into model architectures, with the goal of improving robustness, interpretability, and generalisation under real-world conditions.
 
-A central theme of my work is the design of novel convolutional and hybrid CNN–Transformer architectures that explicitly encode perceptual and physical priors. Rather than treating non-RGB sensing modalities as domain specific applications, I use them as stress tests for modern deep learning, exposing systematic failure modes in texture biased models and motivating principled architectural corrections.
+A central theme of my work is the design of convolutional and hybrid architectures that explicitly encode these priors. Rather than treating non-RGB sensing modalities or challenging environments as domain-specific applications, I use them as stress tests for modern deep learning, exposing systematic failure modes and motivating more principled architectural design.
 
-I also study multimodal and multi-spectral learning, where I treat the physical properties of sensed data as a source of inductive bias rather than nuisance variability. By grounding model design in the physics of image formation, I develop data fusion strategies that improve cross-sensor generalisation and failure mode interpretability, particularly in visually complex and densely populated scenes.
+I am particularly interested in multimodal and multi-spectral learning, where I treat the physical properties of sensed data as a source of inductive bias rather than nuisance variability. By grounding model design in the physics of image formation, my work develops representations that generalise across sensors, conditions, and domains.
 
-My methodological contributions are validated on challenging real world datasets, including satellite and UAV imagery, where uncontrolled conditions such as occlusions, reflections, shadows, seasonal variation, and domain shifts are unavoidable. These settings provide a rigorous testbed for advancing representation learning beyond synthetic or overly curated benchmarks.
+My contributions are validated on challenging real-world datasets, including satellite and UAV imagery, where occlusions, illumination changes, reflections, and seasonal variation are unavoidable. These settings provide a rigorous testbed for advancing representation learning beyond curated or synthetic benchmarks.
 
 <!--My research advances deep learning by integrating principles of visual perception, such as texture, shape, and frequency analysis, into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
 
 I also investigate multimodal deep learning and data fusion, developing models informed by the physical properties of remotely sensed data to improve generalisation and interpretability across environmental domains. By advancing deep learning architectures, my work drives methodological innovation validated through real-world remote sensing challenges. -->
 
 **Current research themes:**
-* Representation learning with explicit inductive biases, including frequency aware and perceptually grounded convolutional operators.
-* Semantic segmentation architectures featuring custom convolutional layers for complex visual domains.
-* Hybrid CNN–Transformer models that optimise the synergy between local feature extraction and global context modelling.
-* Multimodal and multi-spectral data fusion as a testbed for robust learning under physical constraints.
-* UAV based segmentation models resilient to occlusions, reflections, shadows, and illumination variability.
-* Domain-invariant feature learning for improved cross-sensor and cross-season generalisation.
+* Representation learning with explicit perceptual and physical inductive biases.
+* Architectures for robust semantic segmentation in complex visual environments.
+* Multimodal and multi-spectral learning under physical sensing constraints.
+* Domain-invariant representations under seasonal and cross-sensor shift.
 
 <!--* Semantic segmentation architectures featuring custom convolutional layers for complex visual domains.
 * Hybrid CNN–Transformer architectures optimising the synergy between local and global feature representations.
