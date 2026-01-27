@@ -50,7 +50,8 @@ I also investigate multimodal deep learning and data fusion, developing models i
 
 To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications. -->
 
-**Datasets and Experimental Infrastructure**
+**Datasets and Experimental Infrastructure:**
+
 I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability.
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
