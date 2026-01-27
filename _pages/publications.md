@@ -51,7 +51,7 @@ My work in semantic segmentation explores how principles from visual perception 
 
 ## Multimodal Deep Learning Data Fusion
 _____
-These works provide an overview of my research in using remote sensing data and Deep Learning architectures to detect pollutant plants in China. I used Landsat-8 remote sensors (Thermal Infrared and Operational Land Imager) to create datasets consisting of thermal infrared (bands 10 and 11), Short Wave Infrared (bands 6 and 7), and a geological ratio of the Short-Wave Infrared.
+My work in multimodal learning investigates how the physical properties of different sensing modalities can serve as inductive biases for representation learning. By incorporating perceptually grounded and physically informed inductive biases, my work develops representations that leverage complementary signals to expose persistent physical structure often obscured by single-modality or direct cues. These ideas are validated on real-world multi-spectral and thermal datasets, demonstrating improved generalisation and interpretability in complex environmental settings.
 
 * Georgios Voulgaris. (2026). "[*FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors.*](https://arxiv.org/abs/2512.19504)" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), under review.
 
