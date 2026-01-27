@@ -24,13 +24,13 @@ Additionally, I investigate multimodal deep learning and data fusion techniques,
 
 To advance deep learning model development, I curate high-quality datasets for various computer vision tasks across diverse environments. -->
 
-My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding perceptually and physically grounded principles into model architectures, with the goal of improving robustness, interpretability, and generalisation under real-world conditions.
+My research investigates how inductive biases derived from visual perception and physical signal formation shape representation learning in deep neural networks. I focus on embedding perceptually and physically grounded principles into model architectures, with the goal of improving robustness, interpretability, and generalisation under complex real-world conditions.
 
 A central theme of my work is the design of convolutional and hybrid architectures that explicitly encode these priors. Rather than treating non-RGB sensing modalities or challenging environments as domain-specific applications, I use them as stress tests for modern deep learning, exposing systematic failure modes and motivating more principled architectural design.
 
 I am particularly interested in multimodal and multi-spectral learning, where I treat the physical properties of sensed data as a source of inductive bias rather than nuisance variability. By grounding model design in the physics of image formation, my work develops representations that generalise across sensors, conditions, and domains.
 
-My contributions are validated on challenging real-world datasets, including satellite and UAV imagery, where occlusions, illumination changes, reflections, and seasonal variation are unavoidable. These settings provide a rigorous testbed for advancing representation learning beyond curated or synthetic benchmarks.
+<!--My contributions are validated on challenging real-world datasets, including satellite and UAV imagery, where occlusions, illumination changes, reflections, and seasonal variation are unavoidable. These settings provide a rigorous testbed for advancing representation learning beyond curated or synthetic benchmarks. -->
 
 <!--My research advances deep learning by integrating principles of visual perception, such as texture, shape, and frequency analysis, into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
 
@@ -51,7 +51,7 @@ I also investigate multimodal deep learning and data fusion, developing models i
 To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications. -->
 
 **Datasets and Experimental Infrastructure**
-I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability
+I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability.
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
