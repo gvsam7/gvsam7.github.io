@@ -54,6 +54,7 @@ Prior to my doctoral studies, I worked as a Control and Automation Design Engine
 
 Education
 ======
+I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), where my research focused on salient feature representation, domain adaptation, and semantic segmentation. This work laid the foundations of my current research agenda by investigating how feature representations degrade under domain shift and how architectural design choices influence generalisation.
 * PhD in Deep Learning Aerial Scene Analysis: Extracting Salient Features for Domain Adaptation and Semantic Segmentation Tasks, University of Sussex, 2023
 * MSc Modern Digital Communications Systems, University of Sussex, 2006
 * BEng Honours Electronics with Communications Engineering, University of Brighton, 2005

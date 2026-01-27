@@ -30,6 +30,8 @@ A central theme of my work is the design of convolutional and hybrid architectur
 
 I am particularly interested in multimodal and multi-spectral learning, where I treat the physical properties of sensed data as a source of inductive bias rather than nuisance variability. By grounding model design in the physics of image formation, my work develops representations that generalise across sensors, conditions, and domains.
 
+Across these areas, I design and curate datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability.
+
 <!--My contributions are validated on challenging real-world datasets, including satellite and UAV imagery, where occlusions, illumination changes, reflections, and seasonal variation are unavoidable. These settings provide a rigorous testbed for advancing representation learning beyond curated or synthetic benchmarks. -->
 
 <!--My research advances deep learning by integrating principles of visual perception, such as texture, shape, and frequency analysis, into novel network architectures. I design and validate new convolutional and hybrid CNN–Transformer models that enhance feature representation and robustness in complex, densely populated scenes.
@@ -50,17 +52,17 @@ I also investigate multimodal deep learning and data fusion, developing models i
 
 To support deep learning model development, I curate high-quality datasets for computer vision and remote sensing applications. -->
 
-**Datasets and Experimental Infrastructure:**
+<!-- **Datasets and Experimental Infrastructure:**
 
-I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability.
+I design datasets as experimental instruments for analysing representation robustness, inductive bias, and generalisation under physically grounded real-world variability. -->
 
 <!-- Part of my research creating high-quality datasets tailored for classification, semantic segmentation, and instance segmentation tasks, enabling robust and scalable solutions across diverse domains. -->
 
 <!-- My research aims to improve feature representation learning in deep networks, focusing on salient feature extraction for segmentation tasks in dense scenes. My work bridges theoretical advancements in feature representation learning with practical applications in remote sensing, environmental monitoring, and industrial scene understanding.-->
 
-**Background:**
+<!-- **Background:**
 
-I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). <!--, where my research focused on salient feature representation, domain adaptation, and semantic segmentation. This work laid the foundations of my current research agenda by investigating how feature representations degrade under domain shift and how architectural design choices influence generalisation. -->
+I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), where my research focused on salient feature representation, domain adaptation, and semantic segmentation. This work laid the foundations of my current research agenda by investigating how feature representations degrade under domain shift and how architectural design choices influence generalisation. -->
 
 <!-- Prior to that I was an EPSRC funded PhD candidate, working on Deep Learning for Remote Sensing systems at the University of Sussex, advised by [Prof. Andy Philippides](https://profiles.sussex.ac.uk/p23611-andy-philippides) and [Prof. Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto). My research focused on developing novel Deep Learning models that extract salient feature representations for domain adaptation and semantic segmentation tasks. -->
 
@@ -69,9 +71,9 @@ I completed an EPSRC-funded PhD at the University of Sussex supervised by [Prof.
 
  <!-- This project contributes to the [SDG 9: Industry, Innovation and Infrastructure](https://sdgs.un.org/goals/goal9). -->
 
-**Industrial Experience:**
+<!-- **Industrial Experience:**
 
-Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry, an experience that continues to inform my interest in physically grounded learning and sensing constraints.
+Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry, an experience that continues to inform my interest in physically grounded learning and sensing constraints. -->
 
 **Open to Collaboration:**
 
