@@ -41,7 +41,7 @@ These works provide an overview of my research on domain shifts in aerial scenes
 
 ## Semantic Segmentation
 _____
-These works provide an overview of my research in semantic segmentation of aerial scenes.
+My work in semantic segmentation explores how principles from visual perception and physical image formation can be embedded into deep learning architectures to improve robustness and generalisation in complex real-world conditions. I use visually challenging data to expose systematic model weaknesses and to motivate more principled architectural design. By incorporating perceptually grounded and physically informed inductive biases, my work develops representations that are more stable under occlusions, illumination changes, and domain shifts, while also improving interpretability.
 
 * Georgios Voulgaris. (2025). "[*Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation.*](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html)"
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) EarthVision. </i> Full text available at <a href="https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html"> CVPR'25 </a>. <span style="color:red;">Spotlight</span>
