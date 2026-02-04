@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Deep Learning and Computer Vision at the University of Oxford, working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon).
+I am a [Postdoctoral researcher](https://www.biology.ox.ac.uk/people/georgios-voulgaris) in Computer Vision and Deep Learning at the University of Oxford.
+<!-- , working with [Prof Ben Sheldon](https://www.biology.ox.ac.uk/people/professor-ben-sheldon). -->
 
 <!--My research focuses on designing innovative deep learning architectures that advance feature representation learning — particularly for extracting salient features in complex, densely populated scenes.
 
