@@ -21,7 +21,7 @@ My work in semantic segmentation explores how principles from visual perception 
 _____
 My work in multimodal learning investigates how the physical properties of different sensing modalities can serve as inductive biases for representation learning. By incorporating perceptually grounded and physically informed inductive biases, my work develops representations that leverage complementary signals to expose persistent physical structure often obscured by single-modality or direct cues. These ideas are validated on real-world multi-spectral and thermal datasets, demonstrating improved generalisation and interpretability in complex environmental settings.
 
-* **Georgios Voulgaris**. (2026). "[*FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors.*](https://arxiv.org/abs/2512.19504)" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), under review.
+* **Georgios Voulgaris**. (2026). "[*FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors.*](https://arxiv.org/abs/2512.19504)" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Accepted.
 
 * **Georgios Voulgaris**, Maral Bayaraa, Cristian Rossi. (2025). "[*Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach.*](https://ieeexplore.ieee.org/document/11243713)"
 <i>International Geoscience and Remote Sensing Symposium (IGARSS). </i> Full text available at <a href="https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500"> IGARSS'25 </a>. <span style="color:red;">Oral</span>    
