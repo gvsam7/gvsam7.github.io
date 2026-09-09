@@ -82,7 +82,7 @@ I am always interested in discussing new research directions and potential colla
 
 ## Recent News
 
-* August 2026: [Awarded the G‑Research Grant](https://www.gresearch.com/news/g-research-july-2026-grant-winners/) supporting my single‑author IEEE JSTARS paper FusionNet.
+* August 2026: [Awarded the G‑Research Grant](https://www.gresearch.com/news/g-research-july-2026-grant-winners/) supporting my single‑author IEEE JSTARS paper FusionNet!
 * July 2026: JSTARS Journal *FusionNet: Multi-Spectral and Thermal Deep Learning...* Accepted for publication!
 * March 2026: [EarthVision](https://www.grss-ieee.org/events/earthvision-2026/?tab=people) CVPR Workshop Technical Committee!
 * June 2025: Paper *Bridging Classical and Modern Computer Vision...* accepted as a spotlight and a poster at Greeks in AI'25 Symposium!  
