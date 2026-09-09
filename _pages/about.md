@@ -82,7 +82,8 @@ I am always interested in discussing new research directions and potential colla
 
 ## Recent News
 
-* July 2026: JSTARS Journal *FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal...* Accepted for publication!
+* August 2026: [Awarded the G‑Research Grant](https://www.gresearch.com/news/g-research-july-2026-grant-winners/) supporting my single‑author IEEE JSTARS paper FusionNet.
+* July 2026: JSTARS Journal *FusionNet: Multi-Spectral and Thermal Deep Learning...* Accepted for publication!
 * March 2026: [EarthVision](https://www.grss-ieee.org/events/earthvision-2026/?tab=people) CVPR Workshop Technical Committee!
 * June 2025: Paper *Bridging Classical and Modern Computer Vision...* accepted as a spotlight and a poster at Greeks in AI'25 Symposium!  
 * May 2025: Gave a seminar in Embedding Differential Signal Processing Priors to Deep Learning models at [Oxford Mathematical Institute Machine Learning and Data Science Seminar](https://www.maths.ox.ac.uk/node/71163)!
