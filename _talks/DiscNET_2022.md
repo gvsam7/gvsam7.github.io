@@ -1,20 +1,20 @@
 ---
-title: "Remote Sensing and Deep Learning for Polluting Cement Plant Detection"
+title: "Research Internship Satellite Applications Catapult: Remote Sensing and Deep Learning for Polluting Cement Plant Detection"
 collection: talks
 type: "Invited Presentation"
 venue: "DISCnet Doctoral Training Consortium"
 date: 2022-05-04
 permalink: /talks/discnet-2022/
-excerpt: "Invited presentation at DISCnet on deep learning and remote sensing methods for detecting polluting cement plants using Landsat-8 data."
+excerpt: "Invited presentation at DISCnet on my research internship at Satellite Applications Catapult: Deep learning and remote sensing methods for detecting polluting cement plants using Landsat-8 data."
 ---
 
-DISCnet Presentation — Remote Sensing and Deep Learning for Polluting Cement Plant Detection (2022)
+DISCnet Presentation — Research Internship at Satellite Applications Catapult: Remote Sensing and Deep Learning for Polluting Cement Plant Detection (2022)
 ======
 
-I presented my research internship work at the Satellite Applications Catapult to the DISCnet Doctoral Training Consortium. The talk covered the development of deep learning methods for detecting polluting cement plants using multi-temporal Landsat-8 satellite imagery.
+This presentation summarised my research internship at the Satellite Applications Catapult, undertaken as part of my DISCnet scholarship. I presented the development of deep learning methods for detecting polluting cement plants using multi-temporal Landsat-8 satellite imagery.
 
-Event: DISCnet Doctoral Training Consortium
-Date: 04 May 2022
+Event: DISCnet Doctoral Training Consortium  
+Date: 04 May 2022  
 
 [YouTube recording](https://www.youtube.com/watch?v=0xkWbdjljWk)
 
