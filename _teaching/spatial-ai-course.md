@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Foundations of Spatial AI for Earth Observation
 description: A complete, open-access curriculum bridging fundamental data theory with deep learning deployment for applied scientists.
-collection: teaching
 permalink: /teaching/spatial-ai-course/
+date: 2024-01-01
 ---
 
 # Foundations of Spatial AI for Earth Observation
