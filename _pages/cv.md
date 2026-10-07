@@ -25,25 +25,6 @@ British Academy
 As part of the [Predictive Analytics Lab](https://wearepal.ai/) (PAL), I contributed to a [British Academy-funded project on Satellite/Aerial Image Scene Segmentation](https://wearepal.ai/projects/ssrp)on satellite and aerial image scene segmentation. In this context, I designed deep learning models for land use classification and multi-domain, multi-temporal data integration, using large scale real world imagery to study robustness between domains. Please see the [demo](https://www.youtube.com/watch?v=AFC0Z3B0lzY) below.
 ![demo](https://gvsam7.github.io/images/Deep_Learning_Satellite_Image_Scene_Classification_Demo.gif)
 
-Teaching Assistant
-======
-* [Computer Vision (G6032)](https://www.sussex.ac.uk/study/modules/undergraduate/2020/G6032-computer-vision)
-  * Level: Second Year
-  * Winter-Spring 2020
-  * Duties included: Coursework Marker - Tutorial Helper
-* [Automation and Mechatronics (875H1)](https://www.sussex.ac.uk/study/modules/postgraduate/2021/875H1-automation-and-mechatronics)
-  * Level: Masters
-  * Winter-Spring 2019
-  * Duties included: Tutorial Helper
-* [Industrial Automation Systems (H7121)](https://www.sussex.ac.uk/study/modules/undergraduate/2022/H7121-industrial-automation-systems)
-  * Level: Third Year
-  * Winter-Spring 2019
-  * Duties included: Tutorial Helper
-* [Advance Electronic Systems (524H1)](https://www.sussex.ac.uk/study/modules/undergraduate/2021/524H1-advanced-electronic-systems)
-  * Level: Masters
-  * Autumn 2018
-  * Duties included: Tutorial Helper - Created lab documentation, set up the lab equipment.
-
 Industry
 ======
 Prior to my doctoral studies, I worked as a Control and Automation Design Engineer in the oil and gas industry. This role provided hands on experience with sensor driven systems, signal acquisition, control architectures, and safety critical software development, shaping my long standing interest in how physical processes, sensing constraints, and system design interact with data driven models.
