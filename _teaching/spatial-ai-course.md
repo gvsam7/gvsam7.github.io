@@ -3,6 +3,9 @@ title: Foundations of Spatial AI for Earth Observation
 collection: teaching
 excerpt: "Open-access curriculum bridging foundational data theory with deep learning deployment."
 permalink: /teaching/spatial-ai-course/
+type: "Curriculum for Interdisciplinary Domain Scientists"
+venue: "Open Access"
+date: 2024-01-01
 ---
 
 **Instructor:** Georgios Voulgaris  
