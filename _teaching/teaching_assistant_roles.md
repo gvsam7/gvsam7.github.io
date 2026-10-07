@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant — University of Sussex"
+title: "Teaching Assistant Roles"
 collection: teaching
 type: "Teaching Assistant"
 venue: "University of Sussex"
-date: 2018-01-01
+date: 2020-01-01
 permalink: /teaching/ta-sussex/
 excerpt: "Teaching Assistant roles across four modules in Computer Vision, Automation, and Electronic Systems."
 ---
