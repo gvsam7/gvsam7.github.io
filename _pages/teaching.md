@@ -13,9 +13,9 @@ permalink: /teaching/spatial-ai-course/
 
 ## Contents
 1. Pedagogical Rationale  
-2. Phase 1 — Foundational Data Theory  
-3. Phase 2 — Curation, Annotation, Engineering  
-4. Phase 3 — Deep Learning Deployment  
+2. Phase 1: Foundational Data Theory  
+3. Phase 2: Curation, Annotation, Engineering  
+4. Phase 3: Deep Learning Deployment  
 5. Open‑Source Code Repositories  
 
 ---
@@ -35,7 +35,7 @@ The aim is to equip non‑CS researchers with the conceptual and practical groun
 
 ---
 
-## Phase 1 — Foundational Data Theory & Representation
+## Phase 1: Foundational Data Theory & Representation
 
 ### 1. Data Theory and the Digital Image
 
@@ -63,7 +63,7 @@ Ability to identify the correct computer‑vision paradigm for a given environme
 
 ---
 
-## Phase 2 — Curation, Annotation, and Engineering Rigor
+## Phase 2: Curation, Annotation, and Engineering Rigor
 
 ### 3. Annotation Architecture
 
@@ -94,7 +94,7 @@ Ability to identify the correct computer‑vision paradigm for a given environme
 
 ---
 
-## Phase 3 — Practical Deep Learning Deployment
+## Phase 3: Practical Deep Learning Deployment
 
 ### 6. Deep Learning Fundamentals: Image Classification
 
