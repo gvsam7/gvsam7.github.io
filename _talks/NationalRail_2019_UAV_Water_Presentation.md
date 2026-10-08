@@ -8,10 +8,7 @@ permalink: /talks/national-rail-2019/
 excerpt: "Invited demonstration for National Rail showcasing an autonomous UAV system for water-body detection, descent, sampling, and return-to-base behaviour."
 ---
 
-National Rail Demonstration — Autonomous UAV Water Detection and Sampling (2019)
-======
-
-During my PhD, I was invited to present a live demonstration to National Rail during their visit to the University of Sussex. The demonstration showcased an autonomous UAV system capable of detecting water bodies using onboard RGB imagery, descending to perform sampling, and returning to base — illustrating how autonomous drones could support large-scale environmental monitoring.
+During my PhD, I was invited to present a live demonstration to National Rail during their visit to the University of Sussex. The demonstration showcased an autonomous UAV system capable of detecting water bodies using onboard RGB imagery, descending to perform sampling, and returning to base, illustrating how autonomous drones could support large-scale environmental monitoring.
 
 Context:
 
@@ -20,17 +17,17 @@ National Rail were exploring UAV-based monitoring solutions for sections of thei
 Demonstration:
 
 * Developed a MATLAB simulation of an autonomous UAV that:
-  * searches an area for water bodies using RGB imagery,
-  * detects water via texture and colour cues,
-  * hovers above the detected region,
-  * descends to sampling height,
-  * and autonomously returns to base.
+  * Searches an area for water bodies using RGB imagery,
+  * Detects water via texture and colour cues,
+  * Hovers above the detected region,
+  * Descends to sampling height,
+  * Autonomously returns to base.
 
 * Programmed a Parrot Mambo drone to replicate this behaviour in a live indoor demonstration:
-  * the drone hovered until detecting a blue surface (representing a water body),
-  * descended towards the target,
-  * stabilised at low altitude,
-  * and returned to its starting position.
+  * Drone hovered until detecting a blue surface (representing a water body),
+  * Descended towards the target,
+  * Stabilised at low altitude,
+  * Returned to its starting position.
 
 Technical features:
 
