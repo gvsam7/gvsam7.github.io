@@ -1,8 +1,8 @@
 ---
-title: "CVPR EarthVision 2025 — Spotlight Presentation: PerceptiveNet for Tree Crown Semantic Segmentation"
+title: "Greeks in AI 2025 Symposium — Spotlight Presentation: PerceptiveNet for Tree Crown Semantic Segmentation"
 collection: talks
 type: "Spotlight Presentation"
-venue: "Greeks in AI Symposium — CVPR EarthVision Spotlight"
+venue: "Greeks in AI Symposium"
 date: 2025-07-17
 permalink: /talks/earthvision-spotlight-2025/
 excerpt: "Single-author spotlight presentation at Greeks in AI 2025 on PerceptiveNet, a novel signal processing-parameterised convolutional backbone for complex scene semantic segmentation."
