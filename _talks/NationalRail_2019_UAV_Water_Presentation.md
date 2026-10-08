@@ -10,6 +10,8 @@ excerpt: "Invited demonstration for National Rail showcasing an autonomous UAV s
 
 During my PhD, I was invited to present a live demonstration to National Rail during their visit to the University of Sussex. The demonstration showcased an autonomous UAV system capable of detecting water bodies using onboard RGB imagery, descending to perform sampling, and returning to base, illustrating how autonomous drones could support large-scale environmental monitoring.
 
+**[YouTube Demo](https://youtu.be/q_cEkgrehkM)**
+
 Context:
 
 National Rail were exploring UAV-based monitoring solutions for sections of their network affected by frequent cliff drops and unstable terrain. Existing helicopter-based inspections were costly and infrequent, motivating interest in autonomous, low-cost aerial monitoring systems.
