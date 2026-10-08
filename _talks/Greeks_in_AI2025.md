@@ -8,14 +8,10 @@ permalink: /talks/earthvision-spotlight-2025/
 excerpt: "Single-author spotlight presentation at Greeks in AI 2025 on PerceptiveNet, a novel signal processing-parameterised convolutional backbone for complex scene semantic segmentation."
 ---
 
-CVPR EarthVision 2025 — [Spotlight Presentation](https://www.greeksin.ai/) (Single Author)
-======
-
-I delivered a single-author spotlight presentation at the Greeks in AI 2025 Symposium, presenting my CVPR EarthVision paper titled "Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation". The talk introduced PerceptiveNet, a novel backbone architecture designed to address the unique spatial and spectral challenges of dense forest aerial imagery.
+I delivered a single-author spotlight presentation at the [Greeks in AI 2025 Symposium](https://www.greeksin.ai/), presenting my CVPR EarthVision paper titled "Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation". The talk introduced PerceptiveNet, a novel backbone architecture designed to address the unique spatial and spectral challenges of dense forest aerial imagery.
 
 Paper:  
 "[Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Voulgaris_Bridging_Classical_and_Modern_Computer_Vision_PerceptiveNet_for_Tree_Crown_CVPRW_2025_paper.html)"  
-CVPR EarthVision 2025
 
 The presentation covered:
 
