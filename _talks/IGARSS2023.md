@@ -8,7 +8,7 @@ permalink: /talks/igarss-2023/
 excerpt: "First author oral presentation at IGARSS 2023 on physics-aware, texture-biased U-Net architectures for water segmentation; chaired the session."
 ---
 
-IGARSS 2023 — Oral Presentation (First Author & Session Chair)
+IEEE International Geoscience and Remote Sensing Symposium 2023 — First Author & Session Chair
 ======
 
 I delivered a first author oral presentation at IGARSS 2023 and chaired the session "Image Analysis for Remote Sensing of Water Bodies" . The talk presented our work titled "Water Physics Aware Semantic Segmentation Through Texture-Biased U-Net Architectures", which investigates how the physical properties of water can be exploited to improve semantic segmentation performance in aerial imagery.
