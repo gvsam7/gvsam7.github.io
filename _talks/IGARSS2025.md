@@ -1,5 +1,5 @@
 ---
-title: "IGARSS 2025 — Oral Presentation: Detecting Cement Plants with Landsat-8"
+title: "IGARSS 2025 — Oral Presentation: FusionNet for Multimodal Plant Detection with Landsat-8"
 collection: talks
 type: "Conference Presentation"
 venue: "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
@@ -8,7 +8,7 @@ permalink: /talks/igarss-2025/
 excerpt: "First author oral presentation at IGARSS 2025 on FusionNet, a physics-informed multi-temporal and multi-spectral deep learning approach for cement plant detection using Landsat-8."
 ---
 
-[IGARSS 2025 — Oral Presentation (First Author)](https://2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500)
+[IEEE International Geoscience and Remote Sensing Symposium 2022 — First Author Presentation](https://2025.ieeeigarss.org/view_paper.php?PaperNum=3165&SessionID=1500)
 ======
 
 I delivered a first author oral presentation at IGARSS 2025 on my work titled "Detecting Cement Plants with Landsat-8: A Physics-Informed, Multi-Temporal, and Multi-Spectral Deep Learning Fusion Approach". The presentation summarised the development of FusionNet, a deep learning model that integrates thermal and short-wave infrared signatures for enhanced cement plant detection.
